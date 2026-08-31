@@ -13,7 +13,7 @@ Senior full-stack engineer with 6 years of experience shipping production SaaS e
 
 I work across the whole stack and enjoy all of it, from data modeling and backend services to infrastructure and the last pixel of the UI. I care about clean architecture, performance, and interfaces that feel considered.
 
-## Things I've built
+## Things I've worked on
 
 - A consumer subscription SaaS delivered solo in 14 weeks, from kickoff to production Kubernetes, with Stripe billing in 49 currencies, full localization, and 440+ automated tests
 - A cross-platform healthcare app with AI food recognition, extracting nutritional data from meal photos using computer vision
