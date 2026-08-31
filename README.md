@@ -26,7 +26,6 @@ I work across the whole stack and enjoy all of it, from data modeling and backen
 - I've built and maintained long-running client relationships, often as the sole technical owner of a product
 - Off the keyboard you'll find me gaming, watching anime, or playing basketball
 - Lifelong Crvena Zvezda fan
-- 
 
 ## Reach me
 
